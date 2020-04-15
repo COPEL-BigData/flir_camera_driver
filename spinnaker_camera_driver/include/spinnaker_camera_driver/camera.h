@@ -35,6 +35,7 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSI
 #include "Spinnaker.h"
 #include "SpinGenApi/SpinnakerGenApi.h"
 
+
 //*******************************************
 // This Class contains camera control functions.
 // This base Class is based on the BlackFly S.
